@@ -1,0 +1,1 @@
+themix-full-git neovim-plenary-git htop-vim-git zsh-fast-syntax-highlighting ttf-iosevka lf-git

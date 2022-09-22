@@ -1,0 +1,9 @@
+xorg-server xorg-xwininfo xorg-xinit xorg-apps bc xcompmgr xorg-xprop dosfstools
+libnotify dunst exfat-utils sxiv xwallpaper ffmpeg gnome-keyring neovim mpd mpc
+mpv man-db ncmpcpp newsboat brave-bin noto-fonts-emoji ntfs-3g pulseaudio-alsa
+pulsemixer pamixer unrar unzip xcape xclip xdotool xorg-xdpyinfo youtube-dl
+zathura zathura-pdf-mupdf poppler mediainfo atool fzf highlight xorg-xbacklight
+slock apparmor firejail  noto-fonts noto-fonts-emoji tmux git wget tree-sitter
+nodejs gcc clang zig python-pynvim ripgrep libreoffice xorg-xmodmap xorg-xrdb
+feh python-pywal xorg-xrandr xsecurelock pipewire-alsa pipewire wireplumber
+keychain thunar
